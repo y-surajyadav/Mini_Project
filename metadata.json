@@ -1,0 +1,6 @@
+{
+  "name": "Smart Warehouse XAI Inventory & Demand Forecasting",
+  "description": "Explainable AI-powered warehouse inventory optimization and demand forecasting system with M5 dataset integration, 6 ML models, SHAP interpretability, and reorder alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
